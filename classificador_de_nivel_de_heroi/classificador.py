@@ -4,7 +4,6 @@ while True:
         break
     xp = float(input("Informe o xp: "))
 
-
     if xp < 1.001:
         nivel = "Ferro"
     elif xp > 1.000 and xp < 2.001:
